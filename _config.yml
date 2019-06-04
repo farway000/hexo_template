@@ -1,13 +1,13 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 标题
-subtitle: 副标题
-avatar: 头像链接URL
-description: 个人简介
-author: 作者名称
+title: 溪源技术圈
+subtitle: 溪源技术圈
+avatar: https://pic.cnblogs.com/avatar/191302/20181208142928.png
+description: 欢迎大家来到溪源的个人博客，期待我的分享能为大家带来意思灵感
+author: 邹溪源
 language: zh-Hans
 timezone:
 
